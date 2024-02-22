@@ -9,5 +9,4 @@ Terraforming Mars is a board game played between 1-5 players. The game takes any
 - Can use different strategies for every game
 - Every game is different even if you play with the same coorporation
 
-
 ![TM Board game](TMboardgame.png)
