@@ -14,4 +14,4 @@ Terraforming Mars is a board game played between 1-5 players. The game takes any
 ## Terraforming Mars game
 In 2018, Twin Sails interactive published a top-down computer game adaptation of the tabletop game of the same name.
 
-![TM video game](TMboardgame.png)
+![TM video game](header.jpg)
